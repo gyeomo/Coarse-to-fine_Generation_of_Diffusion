@@ -13,13 +13,13 @@ The parts we modified in diffusers are expressed as annotations (TNNLS).
 
 ## Requirements
 
-CUDA == 11.1
-cudnn == 8.1.0
-numpy == 1.19.5
-scikit-learn == 0.24.2
-torch == 1.8.1+cu111
-torchvision == 0.9.1+cu111
-diffusers == 0.13.1
+- CUDA == 11.1
+- cudnn == 8.1.0
+- numpy == 1.19.5
+- scikit-learn == 0.24.2
+- torch == 1.8.1+cu111
+- torchvision == 0.9.1+cu111
+- diffusers == 0.13.1
 
 
 ## Implementation
