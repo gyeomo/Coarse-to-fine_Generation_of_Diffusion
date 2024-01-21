@@ -26,7 +26,7 @@ The parts we modified in diffusers are expressed as annotations (TNNLS).
 
 python run.py
 
-## Citation
+## Acknowledgement
 
 ```bibtex
 @misc{von-platen-etal-2022-diffusers,
