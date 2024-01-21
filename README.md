@@ -9,7 +9,7 @@ Here is the file we modified:
 - diffusers/schedulers/scheduling_ddpm.py
 - diffusers/pipelines/ddpm/pipeline_ddpm.py
 
-The parts we modified in diffusers are expressed as annotations (TNNLS).
+The parts we modified in diffusers are expressed as annotations (TIP).
 
 ## Requirements
 
