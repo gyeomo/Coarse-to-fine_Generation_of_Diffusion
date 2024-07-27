@@ -1,5 +1,5 @@
 # Coarse-to-fine_Generation_of_Diffusion
-Submitted to TIP Journal under the name "**Analyzing Coarse-to-fine Generation of Diffusion Models from the Image Editing Perspective**"
+Submitted to EAAI Journal under the name "**Analyzing Coarse-to-fine Generation of Diffusion Models from the Image Editing Perspective**"
 
 We use diffusers, the link below has details.
 🤗 https://github.com/huggingface/diffusers
