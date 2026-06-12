@@ -1,6 +1,13 @@
 # Coarse-to-fine_Generation_of_Diffusion
 "**Analyzing Coarse-to-fine Generation of Diffusion Models from the Image Editing Perspective ([ACM SIGAPP 2026](https://dl.acm.org/doi/abs/10.1145/3748522.3779967))**"
 
+
+<p align="center">
+  <img src="image.png" width="900">
+</p>
+
+
+
 We use diffusers, the link below has details.
 🤗 https://github.com/huggingface/diffusers
 
